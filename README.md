@@ -1,12 +1,25 @@
-- 👋 Hi, I’m Hayd or @ItxHayd
-- 👀 I’m interested in breaking new grounds and doing something Simply Astounding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on almost any platform with the same name
-- 😄 Pronouns: Only he,him
-- ⚡ Fun fact: I have Unique name along with a Unique Birthdate
+<h1 align="center">Hi 👋, I'm Hayd Shafqat</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<!---
-ItxHayd/ItxHayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itxhayd&label=Profile%20views&color=0e75b6&style=flat" alt="itxhayd" /> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **haydshafqat2@gmail.com**
+
+- ⚡ Fun fact **I think I have a unique name and birthday**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/itx-hayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-hayd" height="30" width="40" /></a>
+<a href="https://instagram.com/itx-hayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx-hayd" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxhayd&show_icons=true&locale=en&layout=compact" alt="itxhayd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itxhayd&show_icons=true&locale=en" alt="itxhayd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itxhayd&" alt="itxhayd" /></p>
