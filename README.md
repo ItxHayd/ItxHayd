@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxhayd&label=Profile%20views&color=0e75b6&style=flat" alt="itxhayd" /> </p>
 
-- 🌱 I’m currently mastering **Python**
+- 🌱 I’m currently mastering **MERN**
 
 - 📫 How to reach me **haydshafqat2@gmail.com**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/itx-hayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-hayd" height="30" width="40" /></a>
 <a href="https://instagram.com/itx-hayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx-hayd" height="30" width="40" /></a>
+<a href="https://x.com/hayd_shafqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="itx-hayd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
