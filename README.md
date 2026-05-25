@@ -57,9 +57,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 &nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/java-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+</a>
 &nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
