@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxhayd&label=Profile%20views&color=0e75b6&style=flat" alt="itxhayd" /> </p>
 
-- 🌱 I’m currently mastering **MERN**
+- 🌱 I’m currently mastering **MERN Stack**
 
 - 📫Its Been **A Year** since we started
 
